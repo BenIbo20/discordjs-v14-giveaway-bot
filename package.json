@@ -1,0 +1,25 @@
+{
+  "name": "discordjs-v14-giveaway-bot",
+  "version": "1.0.0",
+  "description": "Discord.js v14 Giveaway Bot with Components V2 and JSON database",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "keywords": [
+    "discord",
+    "discordjs",
+    "giveaway",
+    "bot",
+    "components-v2"
+  ],
+  "author": "BenIbo20",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7"
+  }
+}
+

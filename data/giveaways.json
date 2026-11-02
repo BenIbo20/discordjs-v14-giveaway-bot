@@ -1,0 +1,40 @@
+[
+  {
+    "giveawayId": "gw_1793644988595_84d2c5",
+    "guildId": "1566872497947811870",
+    "channelId": "1566872498681946244",
+    "messageId": "1566885389862699060",
+    "prize": "Deneme",
+    "description": "Çok İyi Çekiliş",
+    "winnerCount": 1,
+    "participants": [
+      "748572353491107932"
+    ],
+    "winners": [
+      "748572353491107932"
+    ],
+    "startTime": 1793644988595,
+    "endTime": 1793645588595,
+    "status": "ended",
+    "createdBy": "748572353491107932",
+    "endedAt": 1793645588611
+  },
+  {
+    "giveawayId": "gw_1793645242750_347de2",
+    "guildId": "1566872497947811870",
+    "channelId": "1566872498681946244",
+    "messageId": "1566886455836549252",
+    "prize": "Deneme",
+    "description": "Çok İyi Çekiliş",
+    "winnerCount": 1,
+    "participants": [
+      "748572353491107932"
+    ],
+    "winners": [],
+    "startTime": 1793645242750,
+    "endTime": 1793645842750,
+    "status": "active",
+    "createdBy": "748572353491107932",
+    "endedAt": null
+  }
+]
